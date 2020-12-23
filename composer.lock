@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "41a3d5d8c4dd4c53a7d352c09d7074d2",
+    "content-hash": "d568799db0ce2d4b6611ada35c78f7d0",
     "packages": [
         {
             "name": "aura/intl",
@@ -3929,9 +3929,8 @@
         }
     ],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
-        "knplabs/gaufrette": 20,
         "burzum/cakephp-imagine-plugin": 20
     },
     "prefer-stable": true,
